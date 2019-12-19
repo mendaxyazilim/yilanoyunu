@@ -51,7 +51,7 @@ void setup() {
 }
 
 void draw() {
-  background(50);
+  background(0);
   noFill();
   stroke(255);
   line(400,0,400,height);
